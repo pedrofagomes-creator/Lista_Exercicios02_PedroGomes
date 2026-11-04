@@ -1,4 +1,4 @@
-# Lista_Exercicios_PedroGomes
+# Lista_Exercicios02_PedroGomes
 
 **ex01:**
 
